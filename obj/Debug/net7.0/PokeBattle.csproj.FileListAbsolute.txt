@@ -1,0 +1,15 @@
+C:\Users\thero\OneDrive\Desktop\Pokemon Project\PokeBattle\bin\Debug\net7.0\PokeBattle.exe
+C:\Users\thero\OneDrive\Desktop\Pokemon Project\PokeBattle\bin\Debug\net7.0\PokeBattle.deps.json
+C:\Users\thero\OneDrive\Desktop\Pokemon Project\PokeBattle\bin\Debug\net7.0\PokeBattle.runtimeconfig.json
+C:\Users\thero\OneDrive\Desktop\Pokemon Project\PokeBattle\bin\Debug\net7.0\PokeBattle.dll
+C:\Users\thero\OneDrive\Desktop\Pokemon Project\PokeBattle\bin\Debug\net7.0\PokeBattle.pdb
+C:\Users\thero\OneDrive\Desktop\Pokemon Project\PokeBattle\obj\Debug\net7.0\PokeBattle.csproj.AssemblyReference.cache
+C:\Users\thero\OneDrive\Desktop\Pokemon Project\PokeBattle\obj\Debug\net7.0\PokeBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thero\OneDrive\Desktop\Pokemon Project\PokeBattle\obj\Debug\net7.0\PokeBattle.AssemblyInfoInputs.cache
+C:\Users\thero\OneDrive\Desktop\Pokemon Project\PokeBattle\obj\Debug\net7.0\PokeBattle.AssemblyInfo.cs
+C:\Users\thero\OneDrive\Desktop\Pokemon Project\PokeBattle\obj\Debug\net7.0\PokeBattle.csproj.CoreCompileInputs.cache
+C:\Users\thero\OneDrive\Desktop\Pokemon Project\PokeBattle\obj\Debug\net7.0\PokeBattle.dll
+C:\Users\thero\OneDrive\Desktop\Pokemon Project\PokeBattle\obj\Debug\net7.0\refint\PokeBattle.dll
+C:\Users\thero\OneDrive\Desktop\Pokemon Project\PokeBattle\obj\Debug\net7.0\PokeBattle.pdb
+C:\Users\thero\OneDrive\Desktop\Pokemon Project\PokeBattle\obj\Debug\net7.0\PokeBattle.genruntimeconfig.cache
+C:\Users\thero\OneDrive\Desktop\Pokemon Project\PokeBattle\obj\Debug\net7.0\ref\PokeBattle.dll
