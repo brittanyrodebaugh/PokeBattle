@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace PokeBattle
 {
-    public class Abilities
+    internal class Battle
     {
-        public string Ability1;
-        public string Ability2;
-        public string Ability3;
 
     }
 }
