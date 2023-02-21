@@ -47,7 +47,7 @@ namespace PokeBattle
             Console.WriteLine($"   Attack | {this.Attack}");
             Console.WriteLine($"  Defense | {this.Defense}");
             Console.WriteLine($"    Speed | {this.Speed}");
-            Console.WriteLine($"Abilities | {this.Ability1}, {this.Ability2}, and {this.Ability3}");
+            Console.WriteLine($"Abilities | {this.Ability1.Name}, {this.Ability2.Name}, and {this.Ability3.Name}");
             Console.WriteLine("******************************************************************************");
 
 
